@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Abg">#fffb1e19</color>
+    <color name="Asbg">#fffc4b0f</color>
+    <color name="Bbg">#fff8cd1b</color>
+    <color name="Cbg">#ffebe91d</color>
+    <color name="Csbg">#ff95e81e</color>
+    <color name="Dbg">#ff3ac832</color>
+    <color name="Dsbg">#ff2fc53c</color>
+    <color name="Ebg">#ff1cd8d3</color>
+    <color name="Fbg">#ff148bd5</color>
+    <color name="Fsbg">#ff1036ab</color>
+    <color name="Gbg">#ff2f0597</color>
+    <color name="Gsbg">#ff6900a0</color>
+
+    <color name="bottonPopCorrect">#ffaaff00</color>
+    <color name="buttonPop">#c35ad3ff</color>
+    <color name="buttonPopStroke">#da9898ff</color>
+    <color name="chordpopBg">#ff7bbfff</color>
+    <color name="chordpopBgCorrect">#ffffffff</color>
+    <color name="chordpopRim">#8effffff</color>
+    <color name="chordpopRimCorrect">#5a7bbfff</color>
+    <color name="chordpopRimCorrectFont">#7bbfff</color>
+    <color name="circleBottomRipple">#ff000000</color>
+    <color name="circleButtonColor">#ffffffff</color>
+    <color name="circleFontColor">#ff000000</color>
+    <color name="circleTopButtonColor">#ff000000</color>
+    <color name="circleTopFontColor">#ffffffff</color>
+    <color name="circleTopRipple">#ffffffff</color>
+    <color name="colorAccent">#ffff4081</color>
+    <color name="colorPrimary">#0028ff</color>
+    <color name="colorPrimaryDark">#ff303f9f</color>
+    <color name="defaultBg">#ffddeeff</color>
+    <color name="displayChordColor">#32000000</color>
+    <color name="clear">#00000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="dAbg">#ff580200</color>
+    <color name="dAsbg">#ff531500</color>
+    <color name="dBbg">#ff504000</color>
+    <color name="dCbg">#ff545400</color>
+    <color name="dCsbg">#ff2c4b00</color>
+    <color name="dDbg">#ff033500</color>
+    <color name="dDsbg">#ff002904</color>
+    <color name="dEbg">#ff004341</color>
+    <color name="dFbg">#ff00243b</color>
+    <color name="dFsbg">#ff000e39</color>
+    <color name="dGbg">#ff0c0029</color>
+    <color name="dGsbg">#ff1c002b</color>
+
+    <color name="lAbg">#ffd5d4</color>
+    <color name="lAsbg">#ffdbce</color>
+    <color name="lBbg">#fff6cf</color>
+    <color name="lCbg">#fffec9</color>
+    <color name="lCsbg">#ecffd2</color>
+    <color name="lDbg">#d1ffcf</color>
+    <color name="lDsbg">#d3ffd6</color>
+    <color name="lEbg">#ccfffe</color>
+    <color name="lFbg">#cdecff</color>
+    <color name="lFsbg">#ccd8ff</color>
+    <color name="lGbg">#d9caff</color>
+    <color name="lGsbg">#efd1ff</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>

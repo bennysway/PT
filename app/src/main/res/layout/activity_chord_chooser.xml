@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_chord_chooser"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.clipseven.progressiontransposer.ChordChooserActivity">
+
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/chordchooserscroller">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@drawable/spectrum"
+            android:gravity="center_vertical">
+
+            <Button
+                android:text="@string/abut"
+                android:layout_width="@dimen/startbuttonchordsize"
+                android:layout_height="@dimen/startbuttonchordsize"
+                android:background="@drawable/start_ripple"
+                android:textSize="@dimen/letterstartsize"
+                android:textColor="@color/circleTopFontColor"
+                android:id="@+id/sabut"
+                android:fontFamily="sans-serif-medium" />
+
+            <Button
+                android:text="@string/asbut"
+                android:layout_width="@dimen/startbuttonchordsize"
+                android:layout_height="@dimen/startbuttonchordsize"
+                android:background="@drawable/start_ripple"
+                android:textSize="@dimen/letterstartsize"
+                android:textColor="@color/circleTopFontColor"
+                android:id="@+id/sasbut" />
+
+            <Button
+                android:text="@string/bbut"
+                android:layout_width="@dimen/startbuttonchordsize"
+                android:layout_height="@dimen/startbuttonchordsize"
+                android:background="@drawable/start_ripple"
+                android:textSize="@dimen/letterstartsize"
+                android:textColor="@color/circleTopFontColor"
+                android:id="@+id/sbbut"/>
+
+            <Button
+                android:text="@string/cbut"
+                android:layout_width="@dimen/startbuttonchordsize"
+                android:layout_height="@dimen/startbuttonchordsize"
+                android:background="@drawable/start_ripple"
+                android:textSize="@dimen/letterstartsize"
+                android:textColor="@color/circleTopFontColor"
+                android:id="@+id/scbut" />
+
+            <Button
+                android:text="@string/csbut"
+                android:layout_width="@dimen/startbuttonchordsize"
+                android:layout_height="@dimen/startbuttonchordsize"
+                android:background="@drawable/start_ripple"
+                android:textSize="@dimen/letterstartsize"
+                android:textColor="@color/circleTopFontColor"
+                android:id="@+id/scsbut" />
+
+            <Button
+                android:text="@string/dbut"
+                android:layout_width="@dimen/startbuttonchordsize"
+                android:layout_height="@dimen/startbuttonchordsize"
+                android:background="@drawable/start_ripple"
+                android:textSize="@dimen/letterstartsize"
+                android:textColor="@color/circleTopFontColor"
+                android:id="@+id/sdbut"/>
+
+            <Button
+                android:text="@string/dsbut"
+                android:layout_width="@dimen/startbuttonchordsize"
+                android:layout_height="@dimen/startbuttonchordsize"
+                android:background="@drawable/start_ripple"
+                android:textSize="@dimen/letterstartsize"
+                android:textColor="@color/circleTopFontColor"
+                android:id="@+id/sdsbut"/>
+
+            <Button
+                android:text="@string/ebut"
+                android:layout_width="@dimen/startbuttonchordsize"
+                android:layout_height="@dimen/startbuttonchordsize"
+                android:background="@drawable/start_ripple"
+                android:textSize="@dimen/letterstartsize"
+                android:textColor="@color/circleTopFontColor"
+                android:id="@+id/sebut"/>
+
+            <Button
+                android:text="@string/fbut"
+                android:layout_width="@dimen/startbuttonchordsize"
+                android:layout_height="@dimen/startbuttonchordsize"
+                android:background="@drawable/start_ripple"
+                android:textSize="@dimen/letterstartsize"
+                android:textColor="@color/circleTopFontColor"
+                android:id="@+id/sfbut"/>
+
+            <Button
+                android:text="@string/fsbut"
+                android:layout_width="@dimen/startbuttonchordsize"
+                android:layout_height="@dimen/startbuttonchordsize"
+                android:background="@drawable/start_ripple"
+                android:textSize="@dimen/letterstartsize"
+                android:textColor="@color/circleTopFontColor"
+                android:id="@+id/sfsbut"/>
+
+            <Button
+                android:text="@string/gbut"
+                android:layout_width="@dimen/startbuttonchordsize"
+                android:layout_height="@dimen/startbuttonchordsize"
+                android:background="@drawable/start_ripple"
+                android:textSize="@dimen/letterstartsize"
+                android:textColor="@color/circleTopFontColor"
+                android:id="@+id/sgbut"/>
+
+            <Button
+                android:text="@string/gsbut"
+                android:layout_width="@dimen/startbuttonchordsize"
+                android:layout_height="@dimen/startbuttonchordsize"
+                android:background="@drawable/start_ripple"
+                android:textSize="@dimen/letterstartsize"
+                android:textColor="@color/circleTopFontColor"
+                android:id="@+id/sgsbut" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <TextView
+        android:text="@string/begin_prompt"
+        android:textColor="@color/circleTopFontColor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/promptText" />
+</RelativeLayout>

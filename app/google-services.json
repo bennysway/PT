@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "217610452198",
+    "firebase_url": "https://progression-transposer.firebaseio.com",
+    "project_id": "progression-transposer",
+    "storage_bucket": "progression-transposer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217610452198:android:afaf26370495e410",
+        "android_client_info": {
+          "package_name": "com.clipseven.progressiontransposer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217610452198-t8dju230d978ju2r0rrd5i5p30136mvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clipseven.progressiontransposer",
+            "certificate_hash": "EC0F402E2DCE415B47B3043F0D48CB28B22F39F4"
+          }
+        },
+        {
+          "client_id": "217610452198-qk1pdkcms2sr9ajkdg42ea71g9qe734b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "217610452198-l4lcbp597q5uv4pp8j95avfntkdp8qi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdS6vYSgAx9VonCc3UhOs4DIQaRvt4MN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

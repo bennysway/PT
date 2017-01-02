@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abut">A</string>
+    <string name="app_name">Progression Transposer</string>
+    <string name="asbut">A#</string>
+    <string name="bbut">B</string>
+    <string name="begin_prompt">Long press a Root Note to begin…</string>
+    <string name="bsbut">B#</string>
+    <string name="cbut">C</string>
+    <string name="csbut">C#</string>
+    <string name="dbut">D</string>
+    <string name="diminished">dim</string>
+    <string name="dsbut">D#</string>
+    <string name="ebut">E</string>
+    <string name="esbut">E#</string>
+    <string name="fbut">F</string>
+    <string name="fsbut">F#</string>
+    <string name="gbut">G</string>
+    <string name="gsbut">G#</string>
+    <string name="minor">m</string>
+    <string name="MaxChordsQuote">The maximum number of chords has been reached</string>
+    <string name="TransposeQuote">Transpose</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2945410942325181/3535561557</string>
+    <string name="banner2_ad_unit_id">ca-app-pub-2945410942325181/3395960752</string>
+
+
+    <string name="title_activity_splash">Splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
